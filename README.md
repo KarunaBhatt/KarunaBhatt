@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Karuna</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-- ⚗️ Though I hold Bachelor's degree in Computer Application, I become a software developer.
-- 🌱 I’m actively looking for oppotunities in Java Software development.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karunabhatt&label=Profile%20views&color=0e75b6&style=flat" alt="karunabhatt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karunabhatt" alt="karunabhatt" /></a> </p>
+- ⚗️ Though I hold Bachelor's degree in Computer Application, I become a software developer.
 
+- 🌱 I’m actively looking for oppotunities in Java Software development.
+- 
 - 🌱 I’m currently learning **ASP.net**
 
 - 📫 How to reach me **karunabhatt.165@gmail.com**
