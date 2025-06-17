@@ -9,7 +9,7 @@
 
 - 🌱 I’m actively looking for oppotunities in Java Software development
   
-- 🌱 I’m currently learning **ASP.net**
+- 🌱 I’m currently learning **software testing**
 
 - 📫 How to reach me **karunabhatt.165@gmail.com**
 
