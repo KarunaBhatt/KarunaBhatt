@@ -9,7 +9,7 @@
 
 - 🌱 I’m actively looking for oppotunities in Java Software development
   
-- 🌱 I’m currently learning **software testing**
+- 🌱 I’m currently learning **Ui/Ux designing **
 
 - 📫 How to reach me **karunabhatt.165@gmail.com**
 
