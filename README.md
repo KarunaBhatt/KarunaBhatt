@@ -11,7 +11,7 @@
 I am a **Data Analyst** with hands-on experience in data analysis, dashboard development, and data-driven reporting.  
 I enjoy transforming raw data into meaningful insights that help businesses make better decisions.
 
-- 🎓 Bachelor’s degree in Computer Application  
+- 🎓 Master of Computer Application  
 - 📊 Skilled in **Power BI, Excel, SQL, Python**  
 - 📈 Experience building **CRM, Sales & ERP dashboards**  
 - 🔍 Strong interest in **data visualization & analytics**  
